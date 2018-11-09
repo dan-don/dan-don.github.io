@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password"
+AuthUserFile /dan-don.github.io /.htsru
+require valid-user
